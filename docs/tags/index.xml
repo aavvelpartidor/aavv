@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AAVV el Partidor</title>
-    <link>https://aavvelpartidor.github.io/aavv/tags/</link>
+    <link>http://localhost:1313/aavv/tags/</link>
     <description>Recent content in Tags on AAVV el Partidor</description>
     <generator>Hugo</generator>
     <language>cat-es</language>
     <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aavvelpartidor.github.io/aavv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/aavv/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activitats</title>
-      <link>https://aavvelpartidor.github.io/aavv/tags/activitats/</link>
+      <link>http://localhost:1313/aavv/tags/activitats/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://aavvelpartidor.github.io/aavv/tags/activitats/</guid>
+      <guid>http://localhost:1313/aavv/tags/activitats/</guid>
       <description></description>
     </item>
   </channel>
