@@ -2,49 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/aavv/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/tags/activitats/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/tags/activitats/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/categories/activitats/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/categories/activitats/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/posts/aprenem-juntes/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/posts/aprenem-juntes/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/categories/aprenentatge/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/categories/aprenentatge/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/categories/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/categories/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/categories/ioga/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/categories/ioga/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/posts/no-mes-precarietat/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/posts/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/posts/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/tags/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/tags/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/categories/taller/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/categories/taller/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/posts/taller-ioga/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aavv/posts/taller-ioga/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <loc>https://aavvelpartidor.github.io/aavv/pages/contacta/</loc>
   </url><url>
-    <loc>http://localhost:1313/aavv/categories/xarrada/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <loc>https://aavvelpartidor.github.io/aavv/pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/aavv/pages/contacta/</loc>
-  </url><url>
-    <loc>http://localhost:1313/aavv/pages/</loc>
-  </url><url>
-    <loc>http://localhost:1313/aavv/pages/uneix-te/</loc>
+    <loc>https://aavvelpartidor.github.io/aavv/pages/uneix-te/</loc>
   </url>
 </urlset>

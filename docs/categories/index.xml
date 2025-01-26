@@ -2,45 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AAVV el Partidor</title>
-    <link>http://localhost:1313/aavv/categories/</link>
+    <link>https://aavvelpartidor.github.io/aavv/categories/</link>
     <description>Recent content in Categories on AAVV el Partidor</description>
     <generator>Hugo</generator>
     <language>cat-es</language>
     <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/aavv/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aavvelpartidor.github.io/aavv/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activitats</title>
-      <link>http://localhost:1313/aavv/categories/activitats/</link>
+      <link>https://aavvelpartidor.github.io/aavv/categories/activitats/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavv/categories/activitats/</guid>
+      <guid>https://aavvelpartidor.github.io/aavv/categories/activitats/</guid>
       <description></description>
     </item>
     <item>
       <title>Aprenentatge</title>
-      <link>http://localhost:1313/aavv/categories/aprenentatge/</link>
+      <link>https://aavvelpartidor.github.io/aavv/categories/aprenentatge/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavv/categories/aprenentatge/</guid>
+      <guid>https://aavvelpartidor.github.io/aavv/categories/aprenentatge/</guid>
       <description></description>
     </item>
     <item>
       <title>Ioga</title>
-      <link>http://localhost:1313/aavv/categories/ioga/</link>
+      <link>https://aavvelpartidor.github.io/aavv/categories/ioga/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavv/categories/ioga/</guid>
+      <guid>https://aavvelpartidor.github.io/aavv/categories/ioga/</guid>
       <description></description>
     </item>
     <item>
       <title>Taller</title>
-      <link>http://localhost:1313/aavv/categories/taller/</link>
+      <link>https://aavvelpartidor.github.io/aavv/categories/taller/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavv/categories/taller/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xarrada</title>
-      <link>http://localhost:1313/aavv/categories/xarrada/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavv/categories/xarrada/</guid>
+      <guid>https://aavvelpartidor.github.io/aavv/categories/taller/</guid>
       <description></description>
     </item>
   </channel>

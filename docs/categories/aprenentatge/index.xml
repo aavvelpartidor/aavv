@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aprenentatge on AAVV el Partidor</title>
-    <link>http://localhost:1313/aavv/categories/aprenentatge/</link>
+    <link>https://aavvelpartidor.github.io/aavv/categories/aprenentatge/</link>
     <description>Recent content in Aprenentatge on AAVV el Partidor</description>
     <generator>Hugo</generator>
     <language>cat-es</language>
     <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/aavv/categories/aprenentatge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aavvelpartidor.github.io/aavv/categories/aprenentatge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aprenem juntes</title>
-      <link>http://localhost:1313/aavv/posts/aprenem-juntes/</link>
+      <link>https://aavvelpartidor.github.io/aavv/posts/aprenem-juntes/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavv/posts/aprenem-juntes/</guid>
+      <guid>https://aavvelpartidor.github.io/aavv/posts/aprenem-juntes/</guid>
       <description>&lt;p&gt;Aprenem juntes és una activitat oberta a tot el veïnat, en especial als més xicotets. El que tractem en aquest taller és donar atenció a les xiquetes i xiquets nouvingudes per poder tindre un espai per introduïr-se en la llengua amb el joc, el dibuix, la pintura a través de l&amp;rsquo;escriptura i la parla.&lt;/p&gt;&#xA;&lt;p&gt;Un espai en obert a totes aquelles veïnes nouvingudes, incloent a les famílies que vullguen formar part, que necessiten un espai per poder aprendre conjuntament i socialitzar amb confiança a partir de compartir el temps, l&amp;rsquo;escolta i la parla.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NO &#43; PRECARIETAT</title>
-      <link>http://localhost:1313/aavv/posts/no-mes-precarietat/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aavv/posts/no-mes-precarietat/</guid>
-      <description>&lt;p&gt;En relació al taller d&amp;rsquo;aprenem juntes que tenen cabuda a la seu veïnal, tots els dimecres, organitzem la següent xarrada.&lt;/p&gt;&#xA;&lt;p&gt;NO MÉS PRECARIETAT&#xA;Xarrada a càrrec de Jaume Brotons, representant de la plataforma No més precarietat.&lt;/p&gt;&#xA;&lt;p&gt;Per tractar els temes següents:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ingrés mínim vital i renda valenciana d&amp;rsquo;inclusió&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ajudes a menors d&amp;rsquo;edat&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;La nova llei de famílies&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ajudes per a menors d&amp;rsquo;edat&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dia i lloc:&lt;/strong&gt; dimecres, 29/01/25 a les 19:30h&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
